@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianxBorne
+- 👋 Hi, I’m Brian 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Android Development Projects
