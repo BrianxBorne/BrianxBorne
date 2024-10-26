@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Brian 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Android Development Projects
+- 🌱 I’m currently Sharpening My Skills on Natural Language processing
+- 💞️ I’m looking to collaborate on Android Development Projects [The Public Respositories Are Open For Collaboration]
 - 📫 How to reach me brianxborne@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a huge Anime fan
+- ⚡ Fun fact: I'm a huge Anime fan
 
 <!---
 BrianxBorne/BrianxBorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
