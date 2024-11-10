@@ -16,7 +16,7 @@ A passionate **Machine Learning enthusiast** and **Natural Language Processing (
 - Twitter: [@Brian_x_Borne](https://x.com/Brian_x_Borne)
 
 ### ⚡ Fun fact:
-Did you know that **Natural Language Processing** (NLP) powers chatbots like this one? It's fascinating how AI can understand and generate human language!
+My passion for **coding** and **AI** originated from watching the anime *Ghost in the Shell*. The exploration of artificial intelligence, human-machine interfaces, and cybernetics in the series truly ignited my interest in the field, inspiring me to pursue a career in technology and machine learning.
 
 ---
 
