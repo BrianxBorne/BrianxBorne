@@ -49,12 +49,6 @@ Did you know that **Natural Language Processing** (NLP) powers chatbots like thi
 
 ---
 
-## 📊 GitHub Commits Graph
-
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=brianxborne&theme=github)
-
----
-
 ## 👥 Let's Collaborate
 I’m always open to collaborating on **Machine Learning**, **Natural Language Processing**, or **Android Development** projects. If you have an interesting project or idea, feel free to reach out!
 
