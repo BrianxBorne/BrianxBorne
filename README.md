@@ -1,4 +1,4 @@
-# Hi 👋, I'm Brian x Borne
+# Hi 👋, I'm Borne
 
 A passionate **Machine Learning enthusiast** and **Natural Language Processing (NLP)** advocate, focused on solving real-world problems through data-driven insights and AI innovation. I’m always exploring new ways to push the boundaries of what AI can do, and I'm eager to collaborate on impactful projects.
 
