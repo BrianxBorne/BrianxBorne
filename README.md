@@ -29,7 +29,7 @@ Did you know that **Natural Language Processing** (NLP) powers chatbots like thi
   - Responsive design for all devices  
   - Project showcase section  
   - Clean and minimalistic UI  
-  ![McWhales Website Screenshot](https://brianxborne.github.io/McWhalesWebsite/screenshot.png)
+  ![McWhales Website Screenshot](https://github.com/BrianxBorne/McWhalesWebsite/blob/main/Screenshot.png)
 
 ---
 
