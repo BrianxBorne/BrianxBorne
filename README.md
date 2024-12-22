@@ -22,7 +22,7 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
 
 ## 🌐 GitHub Pages Projects
 
-- [**McWhales Website**](https://brianxborne.github.io/McWhalesWebsite/)  
+- [**Brian Mutune Website**](https://brianxborne.github.io/)  
   A personal website built to showcase my projects and share my tech journey. It features interactive sections and a modern layout to reflect my approach to web development.  
   **Technologies Used**: HTML, CSS, JavaScript  
   **Key Features**:  
