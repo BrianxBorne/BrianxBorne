@@ -29,7 +29,7 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
   - Responsive design for all devices  
   - Project showcase section  
   - Clean and minimalistic UI  
-  ![McWhales Website Screenshot](https://github.com/BrianxBorne/McWhalesWebsite/blob/main/Screenshot.png)
+  ![McWhales Website Screenshot](https://github.com/BrianxBorne/BrianxBorne.github.io/blob/main/Github%20Shot.jpg)
 
 ---
 
