@@ -2,20 +2,40 @@
 
 A passionate **Machine Learning enthusiast** and **Natural Language Processing (NLP)** advocate, focused on solving real-world problems through data-driven insights and AI innovation. I’m always exploring new ways to push the boundaries of what AI can do, and I'm eager to collaborate on impactful projects.
 
-### 🔭 Currently working on:
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=brianxborne&label=Profile%20views&color=0e75b6&style=flat" alt="brianxborne" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=brianxborne&theme=radical" alt="brianxborne" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/Brian_x_Borne" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Brian_x_Borne?logo=twitter&style=for-the-badge" alt="Brian_x_Borne" />
+  </a>
+</p>
+
+---
+
+## 🔭 Currently working on:
 - Sharpening my skills in **Natural Language Processing** (NLP)
 - Experimenting with **Machine Learning algorithms** and models
 
-### 🌱 What I’m Learning:
+## 🌱 What I’m Learning:
 - Advancing my knowledge in **Deep Learning**
 - Mastering tools for building scalable AI systems
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 - Email: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
 - LinkedIn: [Brian Mutune](https://www.linkedin.com/in/brian-mutune)
 - Twitter: [@Brian_x_Borne](https://x.com/Brian_x_Borne)
 
-### ⚡ Fun fact:
+## ⚡ Fun fact:
 My passion for **coding** and **AI** originated from watching the anime *Ghost in the Shell*. The exploration of artificial intelligence, human-machine interfaces, and cybernetics in the series truly ignited my interest in the field, inspiring me to pursue a career in technology and machine learning.
 
 ---
@@ -29,7 +49,7 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
   - Responsive design for all devices  
   - Project showcase section  
   - Clean and minimalistic UI  
-  ![McWhales Website Screenshot](https://github.com/BrianxBorne/BrianxBorne.github.io/blob/main/Github%20Shot.jpg)
+  ![Website Screenshot](https://github.com/BrianxBorne/BrianxBorne.github.io/blob/main/Github%20Shot.jpg)
 
 ---
 
@@ -45,14 +65,36 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
 
 ## 📈 GitHub Stats
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianxborne&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="left">
+  <a href="http://www.github.com/brianxborne">
+    <img src="https://github-readme-stats.vercel.app/api?username=brianxborne&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Brian's GitHub Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/brianxborne">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianxborne&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Brian's GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/brianxborne">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=brianxborne&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/brianxborne">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianxborne&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 👥 Let's Collaborate
 I’m always open to collaborating on **Machine Learning**, **Natural Language Processing**, or **Android Development** projects. If you have an interesting project or idea, feel free to reach out!
-
----
-
-### ✍️ Dev Quote
-*"The best way to predict the future is to invent it."* – Alan Kay
