@@ -62,7 +62,6 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
 - **Tools**: Docker, Git, VS Code, Jupyter Notebook
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="left">
@@ -73,13 +72,19 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
 
 <p align="left">
   <a href="http://www.github.com/brianxborne">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianxborne&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Brian's GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=brianxborne&theme=radical&hide_border=true" alt="" />
   </a>
 </p>
 
 <p align="left">
   <a href="http://www.github.com/brianxborne">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=brianxborne&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=brianxborne&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/brianxborne">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true" alt="GitHub Commits Graph" />
   </a>
 </p>
 
@@ -89,7 +94,7 @@ My passion for **coding** and **AI** originated from watching the anime *Ghost i
   </a>
 </p>
 
----
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
