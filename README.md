@@ -19,10 +19,6 @@ A passionate **Machine Learning enthusiast** and **Natural Language Processing (
     <img src="https://img.shields.io/twitter/follow/Brian_x_Borne?logo=twitter&style=for-the-badge" alt="Brian_x_Borne" />
   </a>
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="brian-mutune" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/brian-mutune?trk=profile-badge">Brian Mutune</a></div>
-              
 ---
 
 ## 🔭 Currently working on:
