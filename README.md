@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55">
-  BRIAN BORNE
+  BORNE
 </h1>
 <h3 align="center" style="color: #7f00ff; margin-bottom: 25px">
   SOFTWARE ENGINEER | AI ARCHITECT
