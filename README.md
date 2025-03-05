@@ -9,18 +9,26 @@
   SOFTWARE ENGINEER | AI ARCHITECT
 </h3>
 
+<h2 align="center" style="color: #2A2F45; border-bottom: 2px solid #6366F1; padding-bottom: 8px; letter-spacing: 1.5px">DEVELOPMENT ACTIVITY</h2>
 
-<div align="center" style="margin-bottom: 30px">
-  <a href="https://twitter.com/Brian_x_Borne">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=0D1117&color=000000&labelWidth=70&labelAlign=center">
-  </a>
-  <a href="https://www.linkedin.com/in/brian-mutune">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5&labelWidth=70&labelAlign=center">
-  </a>
-  <a href="mailto:brianxborne@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&labelColor=0D1117&color=EA4335&labelWidth=70&labelAlign=center">
-  </a>
+
+<div align="center" style="margin: 30px 0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=0D1117&color=7f00ff&line=00ff9d&point=7f00ff&area=true&hide_border=true" width="100%">
 </div>
+
+<table width="100%" style="margin: 30px 0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=brianxborne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7f00ff&icon_color=00ff9d" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianxborne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7f00ff" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
@@ -46,23 +54,10 @@
   </tr>
 </table>
 
-<h2 align="center" style="color: #2A2F45; border-bottom: 2px solid #6366F1; padding-bottom: 8px; letter-spacing: 1.5px">DEVELOPMENT ACTIVITY</h2>
 
 
-<div align="center" style="margin: 30px 0">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=0D1117&color=7f00ff&line=00ff9d&point=7f00ff&area=true&hide_border=true" width="100%">
-</div>
 
-<table width="100%" style="margin: 30px 0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=brianxborne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7f00ff&icon_color=00ff9d" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianxborne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7f00ff" width="100%">
-    </td>
-  </tr>
-</table>
+
 
 <h2 style="color: #00ff9d; border-bottom: 2px solid #00ff9d55; padding-bottom: 8px">PROJECT HIGHLIGHTS</h2>
 
@@ -76,4 +71,20 @@
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 2px solid #7f00ff55">
   <p style="color: #8e9aaf">"The ghost exists within the machine." - Inspired by Masamune Shirow's vision of human-AI symbiosis</p>
+</div>
+
+
+
+
+
+<div align="center" style="margin-bottom: 30px">
+  <a href="https://twitter.com/Brian_x_Borne">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=0D1117&color=000000&labelWidth=70&labelAlign=center">
+  </a>
+  <a href="https://www.linkedin.com/in/brian-mutune">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5&labelWidth=70&labelAlign=center">
+  </a>
+  <a href="mailto:brianxborne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&labelColor=0D1117&color=EA4335&labelWidth=70&labelAlign=center">
+  </a>
 </div>
