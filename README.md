@@ -9,9 +9,6 @@
   SOFTWARE ENGINEER | AI ARCHITECT
 </h3>
 
-<h2 align="center" style="color: #2A2F45; border-bottom: 2px solid #6366F1; padding-bottom: 8px; letter-spacing: 1.5px">DEVELOPMENT ACTIVITY</h2>
-
-
 <div align="center" style="margin: 30px 0">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=0D1117&color=7f00ff&line=00ff9d&point=7f00ff&area=true&hide_border=true" width="100%">
 </div>
