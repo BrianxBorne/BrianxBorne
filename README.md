@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/BrianxBorne/BrianxBorne.github.io/blob/main/Github%20Shot.jpg" width="100%" style="border: 3px solid #7f00ff; border-radius: 8px; box-shadow: 0 0 20px #7f00ff55">
-</div>
 
 <h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55">
   BORNE
@@ -8,6 +5,10 @@
 <h3 align="center" style="color: #7f00ff; margin-bottom: 25px">
   SOFTWARE ENGINEER | AI ARCHITECT
 </h3>
+
+<div align="center">
+  <img src="https://github.com/BrianxBorne/Assets/blob/main/Images/collage.png" width="100%" style="border: 3px solid #7f00ff; border-radius: 8px; box-shadow: 0 0 20px #7f00ff55">
+</div>
 
 <div align="center" style="margin: 30px 0">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=0D1117&color=7f00ff&line=00ff9d&point=7f00ff&area=true&hide_border=true" width="100%">
