@@ -1,14 +1,23 @@
 
-<h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55">
+<div align="left"> 
+ <a  href="https://www.linkedin.com/in/brian-mutune">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5&labelWidth=70&labelAlign=center">
+ </a>
+</div>
+
+
+<h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55">  
   BORNE
 </h1>
-<h3 align="center" style="color: #7f00ff; margin-bottom: 25px">
-  SOFTWARE ENGINEER | AI ARCHITECT
-</h3>
+ 
 
 <div align="center">
   <img src="https://github.com/BrianxBorne/Assets/blob/main/Images/collage.png" width="100%" style="border: 3px solid #7f00ff; border-radius: 20px; box-shadow: 0 0 20px #7f00ff55">
 </div>
+
+<h3 align="Center" style="color: #7f00ff; margin-bottom: 25px">
+  Bornelabs CEO ● Software Engineer ● AI Architect ● Graphics Designer ● Otaku
+</h3>
 
 <div align="center" style="margin: 30px 0">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianxborne&bg_color=0D1117&color=7f00ff&line=00ff9d&point=7f00ff&area=true&hide_border=true" width="100%">
@@ -28,11 +37,4 @@
     </td>
   </tr>
 </table>
-</div>
-
-
-
-<div align="center" style="margin-bottom: 30px">
-  <a href="https://www.linkedin.com/in/brian-mutune">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5&labelWidth=70&labelAlign=center">
 </div>
