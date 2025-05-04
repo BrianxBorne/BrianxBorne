@@ -1,14 +1,13 @@
-
 <div align="left"> 
  <a  href="https://www.linkedin.com/in/brian-mutune">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5&labelWidth=70&labelAlign=center">
  </a>
 </div>
 
-
-<h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55">  
+<h1 align="center" style="margin: 20px 0; color: #00ff9d; text-shadow: 0 0 10px #00ff9d55; font-family: 'Orbitron', sans-serif; font-weight: 700;">
   BORNE
 </h1>
+
  
 
 <div align="center">
