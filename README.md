@@ -11,7 +11,7 @@
  
 
 <div align="center">
-  <img src="https://github.com/BrianxBorne/BrianxBorne/blob/main/Assets/Images/collage.png" width="100%" style="border: 3px solid #7f00ff; border-radius: 20px; box-shadow: 0 0 20px #7f00ff55">
+ 
 </div>
 
 <h3 align="Center" style="color: #7f00ff; margin-bottom: 25px">
