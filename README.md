@@ -5,7 +5,7 @@
 </div>
 
 
- My name is Brian Mutune, founder of BorneLabs. I’m a frontend web developer and designer focused on mobile tools, open-source apps, and AI-powered platforms. I build open-source projects as both a hobby and a way to keep learning and improving.
+ My name is Brian Mutune, founder of BorneLabs. I’m a web developer and designer focused on mobile tools, open-source apps, and AI-powered platforms. I build open-source projects as both a hobby and a way to keep learning and improving.
  I’m currently pursuing a degree in Mathematics and Computer Science at Kenyatta University and hold an AWS Cloud Practitioner certification.
  At BorneLabs, I serve as CEO, overseeing the wing leaders of our three key areas: Software & Solutions (SAS), Innovation & Exploration (IAE), and Education & Outreach (EAO). I also support projects across all wings wherever my skills are needed.
 
