@@ -10,7 +10,8 @@
  I’m currently pursuing a degree in Mathematics and Computer Science at Kenyatta University and hold an AWS Cloud Practitioner certification.
  At BorneLabs, I serve as CEO, overseeing the wing leaders of our three key areas: Software & Solutions (SAS), Innovation & Exploration (IAE), and Education & Outreach (EAO). I also support projects across all wings wherever my skills are needed.
 
----
+ [![committers.top badge](https://user-badge.committers.top/kenya_public/BrianxBorne.svg)](https://user-badge.committers.top/kenya_public/BrianxBorne)
+
 
 | **My Projects** |
 |-------------|
@@ -19,7 +20,6 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href="https://www.bornelabs.tech" > <img src="https://raw.githubusercontent.com/BorneLabs/Assets/main/Images/BorneLabs%20Logo.jpg" width="80" height="80"> </a>| <a href="https://github.com/KU-Students-App/KSA/releases/tag/v2.1" > <img src="https://raw.githubusercontent.com/KU-Students-App/Assets/main/Images/KU%20StudentsAPP%20Logo.jpeg" width="80" height="80"> </a> | <a href="https://github.com/cognito-terminal/cognito-mobile-app/releases/tag/v0.0.1" > <img src="https://raw.githubusercontent.com/cognito-terminal/cognito-mobile-app/main/Assets/Cognito.png" width="80" height="80"> </a>| <a href="https://our-minds.github.io/" > <img src="https://raw.githubusercontent.com/Our-Minds/Assets/main/Images/OurMinds.png" width="80" height="80"> </a>| <a href="https://github.com/Samurai-Vault/Samurai/releases/tag/v0.0.7"> <img src="https://raw.githubusercontent.com/Samurai-Vault/Assets/main/Logos/Samurai%20Logo.jpg" width="80" height="80"> </a>| <a href="https://github.com/Neural-Agent-Modelling-Engine" >  <img src="https://raw.githubusercontent.com/Neural-Agent-Modelling-Engine/Assets/main/NLogo.png" width="80" height="80"> </a> |
 
- [![committers.top badge](https://user-badge.committers.top/kenya_public/BrianxBorne.svg)](https://user-badge.committers.top/kenya_public/BrianxBorne)
 
 <div align="left">
 <table width="100%" style="margin: 30px 0">
