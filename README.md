@@ -3,12 +3,12 @@ I’m a systems designer and developer focused on building mobile and web applic
 I also enjoy working on open-source projects, which helps me keep learning and improving over time.
 
 
-| **My Projects** |
+| 🥑 My Projects |
 |-------------|
 
-| Bornelabs | NAME | SGC|
+| [Bornelabs](https://wwww.brianxborne.github.io) | [NAME](https://github.com/Neural-Agent-Modelling-Engine) | [SGC](https://github.com/Smart-Greenhouse-Container/SGC-Mobile-App/releases)|
 |:--:|:--:|:--:|
-| <a href="https://www.bornelabs.tech" > <img src="https://raw.githubusercontent.com/BorneLabs/Assets/main/Images/BorneLabs%20Logo.jpg" width="80" height="80"> </a>| <a href="https://github.com/KU-Students-App/KSA/releases/tag/v2.1" > <img src="https://raw.githubusercontent.com/KU-Students-App/Assets/main/Images/KU%20StudentsAPP%20Logo.jpeg" width="80" height="80"> </a> | <a href="https://github.com/cognito-terminal/cognito-mobile-app/releases/tag/v0.0.1" > <img src="https://raw.githubusercontent.com/cognito-terminal/cognito-mobile-app/main/Assets/Cognito.png" width="80" height="80"> </a>|
+| <a href="https://www.bornelabs.org" > <img src="https://raw.githubusercontent.com/BorneLabs/Assets/11ce6b2bc3677be2573e66d6d9cdfff2213969cc/Images/Bornelabs%20Favicon.png" width="100" height="100"> </a>| <a href="https://github.com/Neural-Agent-Modelling-Engine" > <img src="https://raw.githubusercontent.com/Neural-Agent-Modelling-Engine/Assets/refs/heads/main/NLogo.png" width="100" height="100"> </a> | <a href="https://github.com/Smart-Greenhouse-Container/SGC-Mobile-App/releases" > <img src="https://raw.githubusercontent.com/Smart-Greenhouse-Container/SGC-Mobile-App/05f6c807d7fa86ff7fe3337bd2a207114e7c277b/assets/SGC.jpg" width="100" height="100"> </a>|
 
 <div align="left"> 
  
