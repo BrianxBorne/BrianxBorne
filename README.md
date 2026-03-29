@@ -1,6 +1,5 @@
-# My name is [Brian Mutune](https://brianxborne.github.io), founder of [BorneLabs](https://www.bornelabs.org) .
-I’m a systems designer and developer focused on building mobile and web applications, along with AI driven tools. 
-I also enjoy working on open-source projects, which helps me keep learning and improving over time.
+## My name is [Brian Mutune](https://brianxborne.github.io), Founder of [BorneLabs](https://www.bornelabs.org).
+I’m a systems designer and developer focused on building mobile and web applications, along with AI driven tools. I also enjoy working on open-source projects, which helps me keep learning and improving over time.
 
 
 | 🥑 My Projects |
