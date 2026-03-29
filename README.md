@@ -2,7 +2,7 @@
 I’m a systems designer and developer focused on building mobile and web applications, along with AI driven tools. I also enjoy working on open-source projects, which helps me keep learning and improving over time.
 
 
-| 🥑 My Projects |
+| My Projects |
 |-------------|
 
 | [Bornelabs](https://www.bornelabs.org) | [NAME](https://github.com/Neural-Agent-Modelling-Engine) | [SGC](https://github.com/Smart-Greenhouse-Container/SGC-Mobile-App/releases)|
