@@ -10,3 +10,5 @@ I’m a systems designer and developer focused on building mobile and web applic
 [![Website](https://img.shields.io/badge/Website-0e6655?style=for-the-badge&labelColor=0e6655&color=0e6655)](https://brianxborne.github.io)
 [![Email](https://img.shields.io/badge/Email-992d22?style=for-the-badge&labelColor=992d22&color=992d22)](mailto:brianxborne@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b4f72?style=for-the-badge&labelColor=1b4f72&color=1b4f72)](https://www.linkedin.com/in/brian-mutune)
+
+[View my code snippet](https://gist.github.com/BrianxBorne/427f9db9e42c81f779c1078c27cb0d5b)
