@@ -20,14 +20,14 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <b>Hello👋🏽, I'm Brian, Founder of <a href="https://bornlabs.github.io/">BorneLabs</a> and a Software Developer specializing in AI, Mobile, and IoT.</b>
+      <b>Hello👋🏽, I'm Brian, Founder of <a href="https://bornelabs.github.io/">BorneLabs</a> and a Software Developer specializing in AI, Mobile, and IoT.</b>
     </td>
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
        <b>Welcome to my Github</b><br><br>
-      I'm the founder of <a href="https://bornlabs.github.io/">BorneLabs</a>, a community-driven organization dedicated to turning innovative ideas into impactful technology projects. My interests span AI, mobile development, IoT, and software engineering, with a focus on building practical solutions for real-world problems.<br><br>
+      I'm the founder of <a href="https://bornelabs.github.io/">BorneLabs</a>, a community-driven organization dedicated to turning innovative ideas into impactful technology projects. My interests span AI, mobile development, IoT, and software engineering, with a focus on building practical solutions for real-world problems.<br><br>
       Notable projects include <a href="https://github.com/Neural-Agent-Modelling-Engine">NAME (Neural Agent Modelling Engine)</a>, an offline mobile AI platform for running AI models and agents locally on smartphones, and the mobile application for the  <a href="https://github.com/Smart-Greenhouse-Container">Portable Soil Lab </a>, an AI-powered IoT solution that helps subsistence farmers analyze soil data collected from handheld sensors.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
