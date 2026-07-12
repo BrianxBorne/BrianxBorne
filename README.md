@@ -1,21 +1,45 @@
-## [Brian Mutune](https://brianxborne.github.io), Founder of [BorneLabs](https://www.bornelabs.org).
-I’m a systems designer and developer focused on building mobile and web applications, along with AI driven tools. I also enjoy working on open-source projects, which helps me keep learning and improving over time.
+<div align="center">
+  <a href="https://postimg.cc/pytCmbKy">
+    <img src="Assets/Images/Musashi.jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
 
-
-## My Projects 
-| [Bornelabs](https://www.bornelabs.org) | [NAME](https://github.com/Neural-Agent-Modelling-Engine) | [SGC](https://github.com/Smart-Greenhouse-Container/SGC-Mobile-App/releases)|
-|:--:|:--:|:--:|
-| <a href="https://www.bornelabs.org" > <img src="https://raw.githubusercontent.com/BorneLabs/Assets/11ce6b2bc3677be2573e66d6d9cdfff2213969cc/Images/Bornelabs%20Favicon.png" width="100" height="100"> </a>| <a href="https://github.com/Neural-Agent-Modelling-Engine" > <img src="https://raw.githubusercontent.com/Neural-Agent-Modelling-Engine/Assets/refs/heads/main/NLogo.png" width="100" height="100"> </a> | <a href="https://github.com/Smart-Greenhouse-Container/SGC-Mobile-App/releases" > <img src="https://raw.githubusercontent.com/Smart-Greenhouse-Container/SGC-Mobile-App/05f6c807d7fa86ff7fe3337bd2a207114e7c277b/assets/SGC.jpg" width="100" height="100"> </a>|
+<br>
 
 <table>
   <tr>
-    <td><img src ="https://raw.githubusercontent.com/BorneLabs/Assets/refs/heads/main/Images/BMS.png"></td>
-    <td><img src ="https://raw.githubusercontent.com/Neural-Agent-Modelling-Engine/Assets/refs/heads/main/Screens/v1.0.4.png"></td>
+    <td colspan="2" align="center" valign="middle">
+    <a href="https://www.linkedin.com/in/brian-mutune/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>
+    &nbsp;
+    <a href="https://brianxborne.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+    &nbsp;
+    <a href="mailto:brianxborne@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp;
+    <a href="https://docs.google.com/document/d/18M4on7thbzxYuCXUKgrEn34iGECKTGu388wHd5CzkuM/export?format=pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Brian 🎓</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
+       <b>Founder @ BorneLabs | Software Developer | AI, Mobile & IoT</b><br><br>
+      I'm the founder of BorneLabs, a community-driven organization dedicated to turning innovative ideas into impactful technology projects. My interests span AI, mobile development, IoT, and software engineering, with a       focus on building practical solutions for real-world problems.<br><br>
+      Notable projects include NAME (Neural Agent Modelling Engine), an offline mobile AI platform for running AI models and agents locally on smartphones, and the mobile application for the Portable Soil Lab, an AI-            powered IoT solution that helps subsistence farmers analyze soil data collected from handheld sensors.<br><br>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://postimg.cc/NyFKLkth">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
   </tr>
 </table>
 
-[![Website](https://img.shields.io/badge/Website-0e6655?style=for-the-badge&labelColor=0e6655&color=0e6655)](https://brianxborne.github.io)
-[![Email](https://img.shields.io/badge/Email-992d22?style=for-the-badge&labelColor=992d22&color=992d22)](mailto:brianxborne@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b4f72?style=for-the-badge&labelColor=1b4f72&color=1b4f72)](https://www.linkedin.com/in/brian-mutune)
-
-[View my code snippet](https://gist.github.com/BrianxBorne/427f9db9e42c81f779c1078c27cb0d5b)
+<div align="center">
+  <a href="https://postimg.cc/XBBCDcJP">
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+  </a>
+</div>
