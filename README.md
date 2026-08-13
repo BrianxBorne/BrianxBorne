@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://brianxborne.github.io">
-    <img src="Assets/Vagabond/Banner.jpg" width="100%" alt="Banner"/>
+    <img src="Assets/Brand/cloud.gif" width="100%" alt="Banner"/>
   </a>
 </div>
 
@@ -32,14 +32,8 @@
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://brianxborne.github.io">
-        <img src="Assets/Vagabond/About.png" width="220" alt="About Me Portrait"/>
+        <img src="Assets/Brand/Logo.png" width="220" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://brianxborne.github.io">
-    <img src="Assets/Vagabond/Footer.jpg" width="100%" alt="Coding Quotes"/>
-  </a>
-</div>
